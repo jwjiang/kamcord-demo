@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KamcordWatchView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="refresh">Refresh</string>
+    <string name="load_more">Load More Videos</string>
+</resources>
